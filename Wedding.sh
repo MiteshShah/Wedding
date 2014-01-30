@@ -65,8 +65,4 @@ echo
 typewriter "Kindly grace the occasion with your presence ☺" .1
 echo
 typewriter "You can reach me on my mobile number ✆ +91-9730977210" .1
-echo
-echo
-echo
-echo
 echo # <-- Just for a newline
