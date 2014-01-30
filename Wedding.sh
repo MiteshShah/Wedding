@@ -29,34 +29,45 @@ function typewriter
 #typewriter "Hello $(echo $NAME)," .1
 echo
 echo
+typewriter "			   ≈ WEDDING INVITATION ≈" .1
+echo
+echo
 typewriter "		Two lives, two hearts joined together in friendship" .1
 echo
-typewriter "		united forever in love It is with joy that we," .1
+typewriter "		united forever in Love, it is with joy that we," .1
 echo
 echo
-typewriter "				Mitesh Shah" .1
+typewriter "				♔ Mitesh Shah" .1
 echo
-typewriter "			    	    and" .1
+typewriter "			    	      and" .1
 echo
-typewriter "				Hetal Shah" .1
-echo
-echo
-typewriter "		invite you to share in a celebration of love" .1
-echo
-typewriter "		as we exchange our marriage vows at" .1
+typewriter "				♕ Hetal Shah" .1
 echo
 echo
-typewriter "Wedding Ceremony:				Wedding Party:" .1
+typewriter "		Invite you to share in a Celebration of Love" .1
 echo
-typewriter "Time:  12:39pm					Time:  12:30pm" .1
+typewriter "		as we exchange our marriage vows at -" .1
 echo
-typewriter "Date:  Monday, 3rd February 2014		Date:  Tuesday, 4th February 2014" .1
 echo
-typewriter "Venue: Kotyark Temple,				Venue: A-106, Royal Residency," .1
+typewriter "☞ Wedding Ceremony:				☞ Wedding Party:" .1
 echo
-typewriter "       Mahudi, Gandhinagar			       Visnagar, Mehsana" .1
+typewriter "\$time:  12:39pm					\$time:  12:30pm" .1
 echo
-typewriter "       http://goo.gl/maps/2dUvJ			       http://goo.gl/maps/Pfgex" .1
+typewriter "\$date:  Monday, February 3rd, 2014		\$date:  Tuesday, February 4th, 2014" .1
+echo
+typewriter "#Venue: Kotyark Temple,				#Venue: A-106, Royal Residency," .1
+echo
+typewriter "        Mahudi, Gandhinagar			        Visnagar, Mehsana" .1
+echo
+typewriter "        http://goo.gl/maps/2dUvJ			http://goo.gl/maps/Pfgex" .1
+echo
+echo
+echo
+typewriter "Kindly grace the occasion with your presence ☺" .1
+echo
+typewriter "You can reach me on my mobile number ✆ +91-9730977210" .1
+echo
+echo
 echo
 echo
 echo # <-- Just for a newline
