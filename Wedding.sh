@@ -14,8 +14,6 @@ function typewriter
     text="$1"
     delay="$2"
 
-    txtlen="${#text}"
-
    for i in $(seq 0 "${#text}" ) ; do	
        echo -n "${text:$i:1}"
        sleep ${delay}
