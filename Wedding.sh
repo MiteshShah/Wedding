@@ -28,7 +28,6 @@ function typewriter
 #fi
 #typewriter "Hello $(echo $NAME)," .1
 echo
-echo
 typewriter "			   ≈ WEDDING INVITATION ≈" .1
 echo
 echo
