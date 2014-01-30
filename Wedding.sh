@@ -50,7 +50,7 @@ typewriter "Wedding Ceremony:				Wedding Party:" .1
 echo
 typewriter "Time:  12:39pm					Time:  12:30pm" .1
 echo
-typewriter "Date:  Monday, 3rd February 2014		Date:  Monday, 4th February 2014" .1
+typewriter "Date:  Monday, 3rd February 2014		Date:  Tuesday, 4th February 2014" .1
 echo
 typewriter "Venue: Kotyark Temple,				Venue: A-106, Royal Residency," .1
 echo
