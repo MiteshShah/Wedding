@@ -53,7 +53,7 @@ typewriter "☞ Wedding Ceremony:				☞ Wedding Party:" .1
 echo
 typewriter "\$time:  12:39pm					\$time:  12:30pm" .1
 echo
-typewriter "\$date:  Monday, Feb 3rd, 2014		\$date:  Tuesday, Feb 4th, 2014" .1
+typewriter "\$date:  Monday, Feb 3rd, 2014			\$date:  Tuesday, Feb 4th, 2014" .1
 echo
 typewriter "#Venue: Kotyark Temple,				#Venue: A-106, Royal Residency," .1
 echo
